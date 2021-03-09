@@ -1,0 +1,2 @@
+# ML-in-medical-imaging
+Recently, deep learning methods have shown great potential in various tasks that involve handling large amounts of digital data. In the field of MR imaging research, deep learning methods are also rapidly being applied in a wide range of areas to complement or replace traditional model-based methods. Deep learning methods have shown remarkable improvements in several MR image processing areas such as image reconstruction, image quality improvement, parameter mapping, image contrast conversion, and image segmentation.
